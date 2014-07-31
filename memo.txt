@@ -4,3 +4,5 @@ edit.003.vm72.gitbash.create.feature/myfeat1
 edit.004.vm72.eclipse43.start.feature/myfeat1
 edit.005.vm72.gitbash.start.feature/myfeat3
 
+edit.003.vm72.gitbash.create.feature/myfeat2
+edit.004.denen-pc.eclipse43.edit.feature/myfeat2
