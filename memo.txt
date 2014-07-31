@@ -1,3 +1,4 @@
 edit.001.maekawa-pc.gitbash
 edit.002.vm72.eclipse43.convert.java-maven-project
 edit.003.vm72.gitbash.create.feature/myfeat2
+edit.004.denen-pc.eclipse43.edit.feature/myfeat2
