@@ -6,3 +6,8 @@ edit.005.vm72.gitbash.start.feature/myfeat3
 
 edit.003.vm72.gitbash.create.feature/myfeat2
 edit.004.denen-pc.eclipse43.edit.feature/myfeat2
+
+edit.005.maekawa-pc.gitbash.edit.feature/myfeat5.before.rebase1
+edit.006.maekawa-pc.gitbash.edit.feature/myfeat5.before.rebase2
+edit.007.maekawa-pc.gitbash.edit.feature/myfeat5.before.rebase3
+
